@@ -3775,11 +3775,11 @@ body[data-aos-easing=ease] [data-aos] {
     right: 4%;
     bottom: 25%; }
 .paragraph{
-  font-size: 35px;
+  font-size: 20px;
   display: flex;
   justify-content: center;
   margin-top: 30px;
-  color: var(--color-primary)
+  color: #919293;
 }
 .partner-slider .xb-item--brand {
   border: 1px solid #21294d;
@@ -3912,8 +3912,7 @@ body[data-aos-easing=ease] [data-aos] {
       margin-right: 5px; }
   .about .about-img img {
     position: absolute;
-    right: 1%;
-    top: 3px;
+    margin-left: 2%;
     z-index: -1; }
     @media only screen and (min-width: 1200px) and (max-width: 1500px) {
       .about .about-img img {
